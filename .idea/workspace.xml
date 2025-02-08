@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d0f5f09-e49c-486b-b679-fa3011317040" name="Changes" comment="New task 26">
+    <list default="true" id="1d0f5f09-e49c-486b-b679-fa3011317040" name="Changes" comment="New task 169">
       <change afterPath="$PROJECT_DIR$/80.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;ArtChi10&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ArtChi10/LeetCodeTasks.git&quot;,
-    &quot;accountId&quot;: &quot;dbf433f1-d5ab-4ded-bf01-1a84d7671c4a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ArtChi10/LeetCodeTasks.git",
+    "accountId": "6236e9ee-1132-42d2-b1bf-329e2643bf6f"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -79,6 +79,7 @@
       <workItem from="1736620445471" duration="34054000" />
       <workItem from="1737015523616" duration="44859000" />
       <workItem from="1738234992216" duration="44000" />
+      <workItem from="1739034950941" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="New task 27">
       <option name="closed" value="true" />
@@ -96,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736677989692</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New task 169">
+      <option name="closed" value="true" />
+      <created>1739035230854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739035230854</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +125,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New task 27" />
     <MESSAGE value="New task 26" />
-    <option name="LAST_COMMIT_MESSAGE" value="New task 26" />
+    <MESSAGE value="New task 169" />
+    <option name="LAST_COMMIT_MESSAGE" value="New task 169" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCodeTasks$26.coverage" NAME="26 Coverage Results" MODIFIED="1736677833655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
